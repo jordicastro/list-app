@@ -10,7 +10,7 @@ body {
   
   .list {
     height: 34px;
-    width: 34px;
+    width: 500px;
     flex-direction: row;
   }
 
